@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.counterContainer {
+  background-color: white;
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+}
+.counterHeading {
+  color: black;
+}
+
+.counter-value {
+  color: #c20a72;
+}
+
+.description {
+  color: black;
+  font-size: medium;
+  font-family: roboto;
+}
+.button {
+  background-color: #007bff;
+  color: white;
+  font-family: roboto;
+}
